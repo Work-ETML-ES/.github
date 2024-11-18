@@ -1,12 +1,36 @@
-## Hi there 👋
+# Welcome to Calec
 
-<!--
+## What is Calec?
 
-**Here are some ideas to get you started:**
+Calec is a connected chock designed to ensure safety during loading and unloading operations in a docked truck. 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Check out the [Marketing Page](https://vigis.ch/en/loading-bays/)
+
+## Architecture
+
+![](./calec_system.png)
+
+## Repositories
+
+### Software
+
+- [Bridge](https://github.com/viacam-calec/bridge)
+- [Control Unit Core](https://github.com/viacam-calec/control-unit-core)
+
+### Hardware
+
+**Chock**
+
+- [Optical Sensor](https://github.com/Viacam-Calec/pcb-optical-sensor)
+- [Sensor](https://github.com/Viacam-Calec/pcb-sensor)
+
+**Control Unit**
+
+- [Lid](https://github.com/Viacam-Calec/pcb-lid)
+- [Radio](https://github.com/Viacam-Calec/pcb-radio)
+- [Connector](https://github.com/Viacam-Calec/pcb-connector)
+- [Mechanical Support](https://github.com/Viacam-Calec/control-unit-mechanical)
+
+**Hub**
+
+- [Hub](https://github.com/Viacam-Calec/pcb-hub)
