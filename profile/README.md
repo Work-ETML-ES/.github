@@ -4,33 +4,11 @@
 
 it is my organization which aims to put the work of my school at the ETML-ES 
 
-Check out the [Marketing Page](https://vigis.ch/en/loading-bays/)
+website of the school : [ETML](https://www.etml.ch/)
 
-## Architecture
+## Repositories Seconde year
 
-![](./calec_system.png)
+### Genelog
 
-## Repositories
+- [POBJ_SLO2_24_25](https://github.com/Work-ETML-ES/POBJ_SLO2_24_25)
 
-### Software
-
-- [Bridge](https://github.com/viacam-calec/bridge)
-- [Control Unit Core](https://github.com/viacam-calec/control-unit-core)
-
-### Hardware
-
-**Chock**
-
-- [Optical Sensor](https://github.com/Viacam-Calec/pcb-optical-sensor)
-- [Sensor](https://github.com/Viacam-Calec/pcb-sensor)
-
-**Control Unit**
-
-- [Lid](https://github.com/Viacam-Calec/pcb-lid)
-- [Radio](https://github.com/Viacam-Calec/pcb-radio)
-- [Connector](https://github.com/Viacam-Calec/pcb-connector)
-- [Mechanical Support](https://github.com/Viacam-Calec/control-unit-mechanical)
-
-**Hub**
-
-- [Hub](https://github.com/Viacam-Calec/pcb-hub)
