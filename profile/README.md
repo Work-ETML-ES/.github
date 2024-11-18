@@ -1,12 +1,12 @@
 # Welcome to Work ETML-ES
 
-## what is this organization for?
+## what is this organization for ?
 
-it is my organization which aims to put the work of my school at the ETML-ES 
+it is my organization which aims to put the work of my school at the ETML-ES. 
 
 website of the school : [ETML](https://www.etml.ch/)
 
-## Repositories Seconde Year School :
+## Repositories Seconde Year School
 
 ### Genelog
 
